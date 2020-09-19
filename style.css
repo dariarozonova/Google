@@ -64,27 +64,14 @@ color: grey;
 {
     margin-top: 15px;
 }
-.footer {
-   
-    margin: 300px;
-}
-.country
+
+.footer,.country
 {
-    position: absolute;
-    font-size: 17px;
-    color: grey;
-    background-color: lightgray;
-    box-decoration-break: clone;
-    border: lightgray;
-    border-style: solid;
+    margin-top: 220px;
+    position: absolute
 }
 .bottom
 {
-    box-decoration-break: clone;
-    background-color: lightgray;
-    background-color: lightgray;
-    box-decoration-break: clone;
+   margin-top: 230px;
+   
 }
-    
-
-
