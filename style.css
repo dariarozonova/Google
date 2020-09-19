@@ -1,32 +1,36 @@
-html {
 body
 {
-    margin:0;
-    padding:0 ;
-    box-sizing: border-box;
+    box-sizing: border-box ;
+    margin-top: 0px;
+    padding: 0px;
+    
 }
-.header
+
+.header 
 {
     float: right;
+    
 }
-.search
+.header a, .header button
 {
-border style :dotted;
-border width: 100px;
+    margin: 15px;
+}
+.header button
+{
+    border-style: solid;
+    border-color: blue;
+    border-top-left-radius: 1px ;
+    border-bottom-left-radius: 1px;
+    border-bottom-right-radius: 1px;
+    border-top-right-radius: 1px;
+    background-color: blue;
+    color: cornsilk;
+}
+.main
+{
 
 }
-.btn
+.logo-img
 {
-src="https://c7.hotpng.com/preview/306/24/904/google-search-android-search-box-search-engine-optimization-loupe.jpg"
-}
-p
-.footer
-{
-
-}
-.footer
-{
-
-}
-
+    size:100px;
 }
