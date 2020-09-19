@@ -6,6 +6,7 @@
     font-size: 15px;
     
 }
+
 .header a, .header button
 {
     margin:15px;
@@ -59,19 +60,30 @@ border-bottom-right-radius: 5px;
 border-top-right-radius: 5px;
 border-style: none;
 color: grey;
+font-size: 12px;
 }
 .language
 {
-    margin-top: 15px;
+    font-size: 14px;
+    margin-top: 10px;
 }
 
-.footer,.country
+.footer
 {
-    margin-top: 220px;
-    position: absolute
+    margin-top: 300px;
+    box-sizing: border-box;
+    border: lightslategray;
+  font-size: 20px;
+  color: gray;
+  background-color: lightgray;
 }
-.bottom
+.p1
 {
-   margin-top: 230px;
-   
+    position: absolute; 
+}
+.p2
+{
+    word-spacing: 20px;
+    position: relative;
+
 }
