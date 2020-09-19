@@ -1,6 +1,27 @@
 body
 {
-    margin:;
-    padding: ;
-    box-sizing: ;
+    margin:0;
+    padding:0 ;
+    box-sizing: border-box;
+}
+.header
+{
+    float: right;
+}
+.search-box
+{
+
+}
+.btn
+{
+src="https://c7.hotpng.com/preview/306/24/904/google-search-android-search-box-search-engine-optimization-loupe.jpg"
+}
+p
+.footer
+{
+
+}
+.footer
+{
+
 }
