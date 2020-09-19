@@ -1,36 +1,90 @@
-body
-{
-    box-sizing: border-box ;
-    margin-top: 0px;
-    padding: 0px;
-    
-}
+
 
 .header 
 {
     float: right;
+    font-size: 15px;
     
 }
 .header a, .header button
 {
-    margin: 15px;
+    margin:15px;
 }
 .header button
 {
     border-style: solid;
-    border-color: blue;
+    border-color:royalblue;
     border-top-left-radius: 1px ;
     border-bottom-left-radius: 1px;
     border-bottom-right-radius: 1px;
     border-top-right-radius: 1px;
-    background-color: blue;
+    background-color: royalblue;
     color: cornsilk;
+    font-size: 15px;
+    font-weight: bold;
+    width: 85px;
+    height:55px;
+    
 }
-.main
-{
 
-}
 .logo-img
 {
-    size:100px;
+position: relative;
+width: 500px;
+height:200px;
+margin: 50px;
 }
+
+.search input
+{
+height:40px;
+width:444px;
+border-bottom-left-radius: 25px;
+border-top-left-radius: 25px;
+border-bottom-right-radius: 25px;
+border-top-right-radius: 25px;
+box-shadow: transparent;
+margin-top: 50px;
+}
+.btn button
+{
+margin-top: 10px;
+width: 120px;
+height: 45px;
+background-color: lightgrey;
+border-color:lightgray;
+border-bottom-left-radius: 5px;
+border-top-left-radius: 5px;
+border-bottom-right-radius: 5px;
+border-top-right-radius: 5px;
+border-style: none;
+color: grey;
+}
+.language
+{
+    margin-top: 15px;
+}
+.footer {
+   
+    margin: 300px;
+}
+.country
+{
+    position: absolute;
+    font-size: 17px;
+    color: grey;
+    background-color: lightgray;
+    box-decoration-break: clone;
+    border: lightgray;
+    border-style: solid;
+}
+.bottom
+{
+    box-decoration-break: clone;
+    background-color: lightgray;
+    background-color: lightgray;
+    box-decoration-break: clone;
+}
+    
+
+
